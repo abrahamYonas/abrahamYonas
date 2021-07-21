@@ -1,5 +1,4 @@
-## Hi there 👋
-### My Name is Abraham Yonas
+## Hi there I am Abraham Yonas👋
 
 ---
 <h2 align="center">Tech Stack</h2>
