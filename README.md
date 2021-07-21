@@ -23,6 +23,28 @@
 - 💬 Ask me about: Open-source related topics and Cybersecurity
 - 📫 How to reach me: abrahamy02@gmail.com
 
-[![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrahamYonas&count_private=true&show_icons=true&hide=contribs,prs&theme=gruvbox)](https://github.com/abrahamYonas/github-readme-stats)
+
+---
+<h2 align="center">Reach Me At</h2>
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/abrahamYonas/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="My LinkedIn Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://stackoverflow.com/users/9212221/abrahamyonas">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="My Stack Overflow Profile" height="30" width="30">
+  </a>
+  
+
+  <a href="	https://medium.com/@abrahamYonas">
+    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="My Medium Profile" height="30" width="30">
+  </a>
+</p>
+
+---
+
+[![Abraham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abrahamYonas&count_private=true&show_icons=true&hide=contribs,prs&theme=gruvbox)](https://github.com/abrahamYonas/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/abrahamYonas)  <img src="https://img.shields.io/github/followers/abrahamYonas?label=Follow" style=" float:left, margin-right:10px" />
